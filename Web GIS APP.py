@@ -1,4 +1,4 @@
-# -*-This code will develop a Web GIS APP-- -*-
+# -*-Code for developing GIS app, runs on both iOS and Andriods. 
 ##This app will run on Android phones and tablets with the Android platform version 4.4 KitKat (API level 19) and above.
 
 #download and install Gradle from https://gradle.org
@@ -79,7 +79,7 @@ public class MainActivity extends AppCompatActivity {
                 
 #Add a new setup Map method to the Main Activity class definition. Use Alt + Enter to resolve the missing symbols Basemap and ArcGISMap
 
-# South Carolina's latitude and longitude are 33.8361° N, 81.1637° W, SC is located at zone 17
+# South Carolina's latitude and longitude are 33.8361Â° N, 81.1637Â° W, SC is located at zone 17
 
     private void setupMap() {
       if (mMapView != null) {
