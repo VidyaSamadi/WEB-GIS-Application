@@ -1,6 +1,6 @@
 # -*-Code for developing GIS app, runs on both iOS and Andriods. 
 ##This app will run on Android phones and tablets with the Android platform version 4.4 KitKat (API level 19) and above.
-
+# This code is written by Vidya Samadi in 2018. Users may want to install the most updated dependencies. 
 #download and install Gradle from https://gradle.org
 # Make sure Java JDK or JRE version 7 or higher is installed on your system
 
